@@ -2,6 +2,7 @@
 
 ## https://online-store-pi.vercel.app/
 
+<img src="./online-store-images/online-store-main.png" width=500px/>
 ---
 
 In this project you will create a simplified version, without persistence in the database, of an ** online store **. From these demands, we will have an application where users will be able to:
